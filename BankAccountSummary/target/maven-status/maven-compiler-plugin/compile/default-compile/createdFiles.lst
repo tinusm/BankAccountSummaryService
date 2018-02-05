@@ -1,4 +1,4 @@
-com\bank\account\Application.class
 com\bank\account\Account.class
+com\bank\account\Application.class
 com\bank\account\AccountSummaryController.class
 com\bank\account\AccountRepository.class

@@ -7,7 +7,7 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
-		<config>java:com.bank.account.Application</config>
+		<config>java:com.bank.fund.Application</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
